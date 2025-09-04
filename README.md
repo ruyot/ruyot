@@ -1,2 +1,4 @@
-I’m Tahmeed
-Developer | Security Enthusiast | AI/ML Explorer
+I’m Tahmeed,
+
+
+Developer | Founder | AI/ML Engineer
