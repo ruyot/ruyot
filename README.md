@@ -1,7 +1,4 @@
-I’m Tahmeed,
-
-
-Developer | Founder | AI/ML Engineer
+I’m Tahmeed - Developer | Founder | AI/ML Engineer
 
 I'm always building:
 
