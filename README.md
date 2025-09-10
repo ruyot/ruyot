@@ -6,4 +6,4 @@ I'm always building:
   <a href="mailto:tabeeb700@gmail.com">Email</a> • <a href="https://devpost.com/tabeeb700">Devpost</a> • <a href="https://www.linkedin.com/in/tahmeedt/">LinkedIn</a> • <a href="https://tahmeedt.com">Website</a>
 </pre>
 
-![Programming Languages](coding_languages_marquee.gif)
+![Programming Languages](coding_languages_marquee_transparent.gif)
